@@ -70,7 +70,6 @@ public class AofParser {
         	}
         	
         	Argument argument = new Argument(args);
-        	System.out.println(argument);
         	redisCommandHandler.exec(argument);
         	
         }

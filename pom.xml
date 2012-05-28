@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.ipinyou.redis</groupId>
-  <artifactId>aof</artifactId>
+  <artifactId>ipinyou-redis-utils</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>aof</name>
+  <name>ipinyou-redis-utils</name>
   <url>http://maven.apache.org</url>
 
   <properties>
